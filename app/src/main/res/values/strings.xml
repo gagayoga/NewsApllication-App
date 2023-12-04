@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sports News</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="button_login">Login</string>
+    <string name="juduldashb">Aplikasi ini merupakan project akhir dari program ASM.Ini merupakan tugas dari kelompok kami</string>
+    <string name="login">Do you not have account?? Regsiter</string>
+    <string name="judulonboarding">Looking for news</string>
+    <string name="jdul2onboarding">Read news here wrote</string>
+    <string name="isionboarding">This application is the final project of our group from the second ASM program, especially in the Android field.
+</string>
+    <string name="description_login">Please login here to continue to dashboard aplikasi.input all username and password.</string>
+</resources>
